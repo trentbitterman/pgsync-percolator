@@ -122,6 +122,7 @@ class TestConstants(object):
                 "nested",
                 "null",
                 "object",
+                "percolator",
                 "search_as_you_type",
                 "scaled_float",
                 "shape",

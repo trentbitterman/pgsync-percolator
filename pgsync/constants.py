@@ -107,6 +107,7 @@ ELASTICSEARCH_TYPES = [
     "nested",
     "null",
     "object",
+    "percolator",
     "scaled_float",
     "search_as_you_type",
     "shape",
